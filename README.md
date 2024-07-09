@@ -1,1 +1,1 @@
-# coding-project-template
+# Function Component Event Planner Landing Page
